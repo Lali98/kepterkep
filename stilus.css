@@ -1,6 +1,7 @@
 body{
-    background: linear-gradient(#7bc589, #e8eaed);
+    background: linear-gradient(#7bc589, #e8eaed) no-repeat center center fixed;
     width: 1000px;
+    margin: auto;
 }
 
 #kepterkep{
@@ -10,11 +11,11 @@ body{
 }
 
 header{
-    width: 1100px;
+    width: 1000px;
     margin: auto;
 }
 
 main{
-    width: 1000px;
+    width: 900px;
     margin: auto;
 }
